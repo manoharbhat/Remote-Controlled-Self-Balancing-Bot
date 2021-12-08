@@ -7,21 +7,25 @@ A PID controlled self balancing robot that can climb inclined slopes and pick up
 <p align="center">
   <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/bot.jpg" width=50% height=50%>
 </p> 
+
 ## Arena
 
 <p align="center">
   <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/Arena-gif.gif" width=50% height=50%>
 </p> 
+
 ## Position Hold
 
 <p align="center">
   <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/position%20hold.gif" width=50% height=50%>
 </p> 
+
 ## Follow Line
 
 <p align="center">
   <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/Follow-line-gif.gif" width=50% height=50%>
 </p> 
+
 ## Bridges
 
 <p align="center">
