@@ -27,6 +27,8 @@ A PID controlled self balancing robot that can climb inclined slopes and pick up
 <p align="center">
   <img src="https://github.com/manoharbhat/Remote-Controlled-Self-Balancing-Bot/blob/main/images/bridge-gif.gif" width=50% height=50%>
 </p> 
+
 ## Demonstration
+
 
 - Please watch our video https://www.youtube.com/watch?v=Fh78bup-TKA
